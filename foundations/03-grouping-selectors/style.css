@@ -1,0 +1,12 @@
+.frst{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.sec{
+    background-color: yellow;
+}
+.frst, .sec{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
